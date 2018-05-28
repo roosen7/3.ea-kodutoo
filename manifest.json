@@ -1,0 +1,10 @@
+{
+    "name": "NewTab",
+    "version": "0.1",
+    "description": "Prettier than before",
+
+    "chrome_url_overrides":{
+        "newtab": "index.html"
+    },
+    "manifest_version": 2
+}
